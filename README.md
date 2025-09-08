@@ -12,7 +12,7 @@
 
 ## ***About Me***
 <div align="center">
-  Welcome — I’m Mahmoud, a computer science student who enjoys competitive programming and algorithmic problem solving.  
+  A Computer science student who enjoys competitive programming and algorithmic problem solving.  
   I build practical software with a focus on clear, efficient, and maintainable code.  
   Right now, I’m learning Go Language , aiming to contribute to open-source projects, and improving my ability to turn algorithmic ideas into reliable implementations.
 </div>
