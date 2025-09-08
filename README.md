@@ -39,7 +39,7 @@
 
 ---
 
-##  ***How to Find Me***
+##  ***How To Find Me***
 <p align="center">
 
   <a href="https://www.linkedin.com/in/ma7moud-khaled/" title="LinkedIn">
