@@ -12,9 +12,8 @@
 
 ## ***About Me***
 
-  A Computer science student who enjoys competitive programming and algorithmic problem solving.  
-  I build practical software with a focus on clear, efficient, and maintainable code.  
-  Right now, I’m learning **Go Language** , aiming to contribute to open-source projects, and improving my ability to turn algorithmic ideas into reliable implementations.
+ A Computer Science student who enjoys competitive programming and algorithmic problem solving also I’m interested in ***backend development*** and ***low-level systems***, especially ***databases (DBMS)*** and ***OS*** and currently exploring and learning open-source projects, aiming to contribute to them.
+
 
 
 ---
