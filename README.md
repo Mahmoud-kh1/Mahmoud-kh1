@@ -21,7 +21,6 @@
 ##  ***Achievements***
 - ICPC Regional finalist 2026
 - Solved ***4,000+ problems*** over two years on platforms such as AtCoder, Codeforces, AcWing, and CodeChef.  
-- Ranked in the ***top 150*** in the MIT Contest out of 1500+ students worldwide.  
 - **ECPC Finalist** — 6th place among 200+ teams (2025) and 21st place among 300+ teams (2024). [ICPC ID Link](https://icpc.global/ICPCID/1QZ34PCIJX7Y)  
 - Ranked **Expert** on Codeforces.  
 
